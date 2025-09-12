@@ -243,7 +243,6 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<a href='https://t.me/+y9sugbgrEnM1NjRl'><b>ɴᴀᴍᴇ : {file_caption}\n\n</b></a>"""
-    
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -749,4 +748,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
